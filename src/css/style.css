@@ -1,0 +1,56 @@
+body{
+    
+}
+.menu{
+    background-color: #2E2E2E;
+}
+.repro{
+    color: #D358F7;
+    font-weight: 500;
+}
+.font{
+    font-size: 2.4em;
+    font-weight: 500;
+    padding-top: 0.5em;
+}
+.font1{
+    color: #2E2E2E;
+    font-size: 1.7em;
+    font-weight: 200;
+}
+.card2{
+    margin: 1rem 1.8rem;
+    text-align: center;
+    border: 1.5px solid #8904B1;
+    margin-bottom: 2em;   
+}
+.desc_site{
+    color: #2E2E2E;
+    font-family: sans-serif;
+    text-align: center;  
+}
+
+.visit{
+    background-color: #D358F7;
+    color: #f2f2f2; 
+}
+
+a:hover{
+    color: lightgrey;
+    
+}
+.eu{
+    border: 1.5px solid #8904B1;
+    
+}
+
+#port{
+    background-color: #2E2E2E;
+    color: white;
+    height: auto;
+}
+
+.orc_dica{
+    font-size: 0.9em;
+    color: #8904B1;  
+}
